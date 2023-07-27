@@ -22,7 +22,7 @@ const items: MenuProps["items"] = [
   {
     label: (
       <a
-        href='https://newzone.top/posts/2022-09-05-stable_diffusion_ai_painting.html'
+        href='https://oxyd9wdd70c.feishu.cn/docx/KiHvdOA50oMGekxGB7pc8DCqnqe?from=from_copylink'
         target='_blank'
         rel='noopener noreferrer'>
         Stable Diffusion 入门教程
@@ -34,27 +34,16 @@ const items: MenuProps["items"] = [
   {
     label: (
       <a
-        href='https://www.aishort.top/'
+        href='http://gpt.aisolo.cn/'
         target='_blank'
         rel='noopener noreferrer'>
-        ChatGPT Shortcut
+        ChatGPT 小小AI
       </a>
     ),
     key: "aishort",
     icon: <ExperimentOutlined />,
   },
-  {
-    label: (
-      <a
-        href='https://tools.newzone.top/json-translate'
-        target='_blank'
-        rel='noopener noreferrer'>
-        文本处理工具
-      </a>
-    ),
-    key: "Tools",
-    icon: <ToolOutlined />,
-  },
+
 ];
 
 export function Navigation() {
